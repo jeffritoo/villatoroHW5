@@ -1,7 +1,7 @@
 /* Tutorial 4
 Example 2 JavaScript code
 */
-console.log("Jeffry's Output from Tutorial 4 Example 2");
+console.log("Jeffry's Output from Example 2");
 
 const r = Number(prompt("Enter the circle radius:"));
 
@@ -10,11 +10,11 @@ const circle = {
 }
 
 
-function circumference(){
+function circumference(radius){
     return 2 * Math.PI * this.radius;
 }
 
-function area(){
+function area(radius){
     return Math.PI * (this.radius**2);
 }
 

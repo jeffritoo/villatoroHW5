@@ -1,7 +1,7 @@
 /* Tutorial 4
 Example 1 JavaScript code
 */
-console.log("Jeffry's Output from Tutorial 4 Example 1");
+console.log("Jeffry's Output from Example 1");
 
 let Num1 = Number (prompt("Enter a number:"))
 let Num2 = Number (prompt("Enter a second number:"))

@@ -2,7 +2,7 @@
 Example 2 JavaScript code
 */
 
-console.log("Jeffry's Output from Tutorial 4 Example 3");
+console.log("Jeffry's Output from Example 3");
 
 const values = [3,11,7,2,9,10];
 

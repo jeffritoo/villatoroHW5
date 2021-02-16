@@ -2,7 +2,7 @@
 Example 2 JavaScript code
 */
 
-console.log("Jeffry's Output from Tutorial 4 Example 4");
+console.log("Jeffry's Output from Example 4");
 
 var words = new Array();
 
