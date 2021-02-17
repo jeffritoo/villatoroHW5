@@ -35,7 +35,7 @@ const guessGame = (entry) =>{
 
 if (guessGame(usrGuess) == true){
     console.log("You've guess correctly!");
-    console.log("It took you",attempts,"attemps")
+    console.log("It took you",attempts,"attempts")
 }
 
 
