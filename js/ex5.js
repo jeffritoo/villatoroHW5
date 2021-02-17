@@ -7,7 +7,9 @@ console.log("Jeffry's Output from Example 5");
 let original = String (prompt("Is it a Palindrome? (Enter a Phrase):"))
 
 const isPalindrome = (entry) =>{
+
     for(let i=0; i<entry.length; i++){
+
         if(entry[i] !== entry[entry.length -1 - i]) {
             return false;
         }
